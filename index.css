@@ -27,3 +27,11 @@ body{
   .first{
       text-align: center;
   }
+
+  .dog{
+      margin-left: 115px;
+  }
+
+  .horse{
+      margin-top: -20px;
+  }
